@@ -9,6 +9,9 @@ import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
+/**
+* Model Class For Application
+*/
 class Model : Contract.MapModel {
 
     private var ApiClient : Contract.ApiInterface? = null
