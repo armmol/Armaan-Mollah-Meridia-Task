@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Armaan_Mollah_Task</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="BaseURL">https://releases-f89f5.firebaseio.com/</string>
+</resources>
